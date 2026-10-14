@@ -5,5 +5,5 @@ I'm student at the Irkutsk State University and starting full-stack developer
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="py" width=50px padding=5px><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width=50px padding=5px><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width=50px padding=5px><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" alt="PyCharm" width=50px padding=5px><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JS" width=50px padding=5px>
 # About me
 I'm charismatic, young, perspective full-stack developer, maybe in future Game-Developer or Data-Analytic
-<img src="https://img.cronos.asia/cronos-photobank/media/2026-08-05/bf111c4a-e5d7-4b6c-8ae3-ba96086fe75f.jpeg" width=600px>
+<img src="https://avatars.mds.yandex.net/i?id=6da41d16f0b2099700698a36843ddbb2_l-10803820-images-thumbs&n=13" width=600px>
 
